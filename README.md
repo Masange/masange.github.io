@@ -9,7 +9,6 @@ I am passionate about solving problems in financial services and risk management
 
 # Education 
 M.S., Data Science|Bellevue University(May 2024)
-
 B.S., Statistics| Saint Petersburg State University(June 2012)
 
 # Work Experience
