@@ -1,6 +1,6 @@
 # About
-Experienced financial services professional working in the areas of model risk management, data science and analytics.
-I am passionate about solving problems in financial services and risk management by creating best in class technology products that leverage cutting age techniques in Applied Math, Artificial Intelligence & Machine Learning. Furthermore, I am an infinite learner, continuously seeking to become a better risk manager and data scientist.
+Experienced financial services professional working in the areas of model risk management, data science, and analytics.
+I am passionate about solving problems in financial services and risk management by creating best in-class technology products that leverage cutting-age techniques in Applied Math, Artificial Intelligence & Machine Learning. Furthermore, I am an infinite learner, continuously seeking to become a better risk manager and data scientist.
 
 # Summary of skills
 - Proficient in SAS, R , Python, Tableau and MS Office.
@@ -10,7 +10,7 @@ I am passionate about solving problems in financial services and risk management
 # Education 
 M.S. Data Science|Bellevue University(May 2024)
 
-B.S. Statistics| Saint Petersburg State University(2012)
+B.S. Statistics| Saint Petersburg State University(June 2012)
 
 # Work Experience
 Quant Audit Manager @ Truist Financial Services(December 2021-Present)
