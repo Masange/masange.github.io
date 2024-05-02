@@ -3,10 +3,10 @@
 I am passionate about solving problems in financial services and risk management by creating best in-class technology products that leverage cutting-age techniques in Applied Math, Artificial Intelligence & Machine Learning. Furthermore, I am an infinite learner, continuously seeking to become a better risk manager and data scientist.</p>
 
 # Summary of skills
-<p align="justify">
+
   - Proficient in SAS, R, Python, Tableau, and MS Office.  
   - Strong understanding of common supervised and unsupervised machine learning techniques.  
-  - Analytical, intellectually curious, and result-oriented with strong verbal and written communication skills.</p>
+  - Analytical, intellectually curious, and result-oriented with strong verbal and written communication skills.
 
 # Education 
 M.S., Data Science|Bellevue University(May 2024)  
