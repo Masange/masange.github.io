@@ -8,7 +8,7 @@ I am passionate about solving problems in financial services and risk management
 - Analytical, intellectually curious and result-oriented with strong verbal and written communication skills.
 
 # Education 
-M.S., Data Science|Bellevue University(May 2024)
+M.S., Data Science|Bellevue University(May 2024)  
 B.S., Statistics| Saint Petersburg State University(June 2012)
 
 # Work Experience
