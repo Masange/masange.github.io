@@ -4,8 +4,8 @@ I am passionate about solving problems in financial services and risk management
 
 # Summary of skills
 <p align="justify">
-- Proficient in SAS, R, Python, Tableau, and MS Office.
-- Strong understanding of common supervised and unsupervised machine learning techniques.
+- Proficient in SAS, R, Python, Tableau, and MS Office.  
+- Strong understanding of common supervised and unsupervised machine learning techniques.  
 - Analytical, intellectually curious, and result-oriented with strong verbal and written communication skills.</p>
 
 # Education 
