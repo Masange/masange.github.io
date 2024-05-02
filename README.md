@@ -1,6 +1,6 @@
 # About
-Experienced financial services professional working in the areas of model risk management, data science, and analytics.
-I am passionate about solving problems in financial services and risk management by creating best in-class technology products that leverage cutting-age techniques in Applied Math, Artificial Intelligence & Machine Learning. Furthermore, I am an infinite learner, continuously seeking to become a better risk manager and data scientist.
+<p align="justify"> Experienced financial services professional working in the areas of model risk management, data science, and analytics.
+I am passionate about solving problems in financial services and risk management by creating best in-class technology products that leverage cutting-age techniques in Applied Math, Artificial Intelligence & Machine Learning. Furthermore, I am an infinite learner, continuously seeking to become a better risk manager and data scientist.</p>
 
 # Summary of skills
 - Proficient in SAS, R , Python, Tableau and MS Office.
