@@ -14,16 +14,16 @@ B.S., Statistics| Saint Petersburg State University(June 2012)
 
 # Work Experience
 **Quant Audit Manager @ Truist Financial Services(December 2021-Present)**
-<p align = "justify">
+
 - Perform technical audit assessments related to identifying and mitigating risk associated with financial and non-financial models implemented within Truist.
 - Provide support to senior management within Audit on technical inquiries regarding the model’s being Audited.
-- Create reports for all model-related reviews and issue validation.</p>
+- Create reports for all model-related reviews and issue validation.
 
 **Senior Quantitative Modeling Analyst @ KeyBank(August 2016 - November 2021)**
-<p align ="justify">
+
 - Validated market risk, credit risk, and fraud models within the bank.
 - Performed independent testing to identify and quantify risks associated with models being validated.
-- Prepared reports for all model-related reviews, including validations, ongoing monitoring, and finding remediation.</p>
+- Prepared reports for all model-related reviews, including validations, ongoing monitoring, and finding remediation.
 
 # Projects
 - Coming Soon
