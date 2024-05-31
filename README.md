@@ -28,25 +28,25 @@ B.S., Statistics| Saint Petersburg State University(June 2012)
 # Projects
 
 ## [Project 1 - Simple Cash Register](https://github.com/Masange/projects/tree/master/Project%201%20-%20Simple%20Cash%20Register)
-This application accepts the price for each item in a given store and then outputs a receipt that consists of the total number of items purchased as well as the total price.
+<p align="justify">This application accepts the price for each item in a given store and then outputs a receipt that consists of the total number of items purchased as well as the total price.</p>
 
 ## [Project 2 - Weather Lookup Application](https://github.com/Masange/projects/tree/master/Project%202%20-%20Weather%20Lookup%20Application)
-This weather lookup application interacts with the OpenWeatherMap API to get weather forecasts by US Zip Code or US City. Users can decide whether to view weather forecasts in Fahrenheit, Celcius, or Kelvin.
+<p align="justify">This weather lookup application interacts with the OpenWeatherMap API to get weather forecasts by US Zip Code or US City. Users can decide whether to view weather forecasts in Fahrenheit, Celcius, or Kelvin.</p>
 
 ## [Project 3 - Recommender System](https://github.com/Masange/projects/tree/master/Project%203%20-%20Recommender%20System)
-This movie recommendation system is interactive. It allows the user to search for a movie they would like to watch. When the system receives the name of the movie the user would like to watch, it immediately outputs 10 recommendations for the other movies that they might want to watch.
+<p align="justify">This movie recommendation system is interactive. It allows the user to search for a movie they would like to watch. When the system receives the name of the movie the user would like to watch, it immediately outputs 10 recommendations for the other movies that they might want to watch.</p>
 
 ## [Project 4 - Recommender System](https://github.com/Masange/projects/tree/master/Project%204%20-%20Customer%20Satisfaction%20Detector)
-The objective of this project is to develop a model that predicts whether a customer review is positive or negative. Knowing such information can help a company identify what is lacking and guide it to improvement. 
+<p align="justify">The objective of this project is to develop a model that predicts whether a customer review is positive or negative. Knowing such information can help a company identify what is lacking and guide it to improvement.</p>
 
 ## [Project 5 - Modeling Life Expectancy](https://github.com/Masange/projects/tree/master/Project%205%20-%20Modeling%20Life%20Expectancy)
-The purpose of this project was to develop a model to predict the US life expectancy. At a macroeconomic level, being able to predict how populations will age has enormous implications for the planning and provision of social services and support. 
+<p align="justify">The purpose of this project was to develop a model to predict the US life expectancy. At a macroeconomic level, being able to predict how populations will age has enormous implications for the planning and provision of social services and support.</p>
 
 ## [Project 6 - Mortgage Prepayment Modeling](https://github.com/Masange/projects/tree/master/Project%206%20-%20Mortgage%20Prepayment%20Modeling)
-The purpose of this project is to predict the likelihood of a home loan(Mortgage) being prepaid. To achieve this objective Freddie Mac's Single-Family Loan-Level data set was used. 
+<p align="justify">The purpose of this project is to predict the likelihood of a home loan(Mortgage) being prepaid. To achieve this objective Freddie Mac's Single-Family Loan-Level data set was used.</p> 
 
 ## [Project 7 - Mortgage Data Preparation & EDA](https://github.com/Masange/projects/tree/master/Project%207%20-%20Mortgage%20Data%20Preparation%20%26%20EDA)
-The purpose of this project is to source, clean, format, and visualize a home loan (or mortgage) dataset as well as check if some variables have a relationship with the likelihood of a homeowner prepaying their loan.
+<p align="justify">The purpose of this project is to source, clean, format, and visualize a home loan (or mortgage) dataset as well as check if some variables have a relationship with the likelihood of a homeowner prepaying their loan.</p>
 
 ## [Project 8 - Temperature Summary Application](https://github.com/Masange/projects/tree/master/Project%208%20-%20Temperature%20Summary%20Application)
 <p align="justify">The purpose of this application is to determine the number of temperatures, the largest temperature, and the smallest temperature.</p>
