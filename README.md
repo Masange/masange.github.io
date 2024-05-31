@@ -55,10 +55,10 @@ The purpose of this application is to determine the number of temperatures, the 
 This project aims to develop a model that predicts the likelihood of credit card default. Knowing such information allows lenders to optimize lending decisions, which leads to a better customer experience and sound business economics.
 
 ## [Project 10 - Predicting Password Strength](https://github.com/Masange/projects/tree/master/Project%2010%20-%20Predicting%20Password%20Strength)
-This project aims to develop a machine-learning model that classifies the strength of a password. The strength of a password is a function of length, complexity, and unpredictability. Using strong passwords lowers the overall risk of a security breach.
+<p align="justify">This project aims to develop a machine-learning model that classifies the strength of a password. The strength of a password is a function of length, complexity, and unpredictability. Using strong passwords lowers the overall risk of a security breach.</p>
 
 # Contact Information
-Email : kchulu.2012@gmail.com
+Email  : kchulu.2012@gmail.com
 
 Phone : (330) 906 0905
 
