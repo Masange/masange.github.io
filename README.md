@@ -49,18 +49,18 @@ The purpose of this project is to predict the likelihood of a home loan(Mortgage
 The purpose of this project is to source, clean, format, and visualize a home loan (or mortgage) dataset as well as check if some variables have a relationship with the likelihood of a homeowner prepaying their loan.
 
 ## [Project 8 - Temperature Summary Application](https://github.com/Masange/projects/tree/master/Project%208%20-%20Temperature%20Summary%20Application)
-The purpose of this application is to determine the number of temperatures, the largest temperature, and the smallest temperature.
+<p align="justify">The purpose of this application is to determine the number of temperatures, the largest temperature, and the smallest temperature.</p>
 
 ## [Project 9 - Predicting Credit Card Default](https://github.com/Masange/projects/tree/master/Project%209%20-%20Predicting%20Credit%20Card%20Default)
-This project aims to develop a model that predicts the likelihood of credit card default. Knowing such information allows lenders to optimize lending decisions, which leads to a better customer experience and sound business economics.
+<p align="justify">This project aims to develop a model that predicts the likelihood of credit card default. Knowing such information allows lenders to optimize lending decisions, which leads to a better customer experience and sound business economics.</p>
 
 ## [Project 10 - Predicting Password Strength](https://github.com/Masange/projects/tree/master/Project%2010%20-%20Predicting%20Password%20Strength)
 <p align="justify">This project aims to develop a machine-learning model that classifies the strength of a password. The strength of a password is a function of length, complexity, and unpredictability. Using strong passwords lowers the overall risk of a security breach.</p>
 
 # Contact Information
-Email  : kchulu.2012@gmail.com
+Email - kchulu.2012@gmail.com
 
-Phone : (330) 906 0905
+Phone - (330) 906 0905
 
 
 
